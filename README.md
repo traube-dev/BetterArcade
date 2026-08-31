@@ -17,3 +17,7 @@ BetterArcade adds host-configurable settings to the arcade machine's official mi
 ## Requirements
 - Wobbly Life (via Steam)
 - BepInEx 5.x
+- [tdToolz](https://github.com/traube-dev/tdToolz)
+
+## Installation
+See [traube.dev/docs](https://traube.dev/docs.html) for the general BepInEx + mod install walkthrough. No manual `BepInEx.cfg` editing needed - tdToolz protects itself and every mod built on it automatically.
