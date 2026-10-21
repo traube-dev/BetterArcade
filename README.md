@@ -3,6 +3,7 @@ name: BetterArcade
 tagline: Configurable settings for the arcade machine's official minigames
 dependencies: [https://github.com/traube-dev/tdToolz]
 thumbnail: thumbnail.jpg
+thumbnail_webp: thumbnail.webp
 icon: icon.svg
 ---
 
